@@ -1,0 +1,39 @@
+[
+	{
+		"profile"  : "profile/profileme.jpg",
+		"fullname" : "Muhammad Naufal Fadhilah",
+		"username" : "admin",
+		"password" : "279123"
+	},
+	{
+		"profile"  : "profile/musk.jpg",
+		"fullname" : "Elon Musk",
+		"username" : "elon",
+		"password" : "123456"
+	},
+	{
+		"profile"  : "profile/peter.jpg",
+		"fullname" : "Peter Parker",
+		"username" : "peter",
+		"password" : "123456"
+	},
+	{
+		"profile"  : "profile/obi.jpg",
+		"fullname" : "Obi Wan Kenobi",
+		"username" : "obi",
+		"password" : "123456"
+	},
+	{
+		"profile"  : "profile/john.jpg",
+		"fullname" : "Johnny Silverhand",
+		"username" : "john",
+		"password" : "123456"
+	},
+	{
+		"profile"  : "profile/anonim.jpg",
+		"fullname" : "User",
+		"username" : "user",
+		"password" : "123456"
+	}		
+	
+]
